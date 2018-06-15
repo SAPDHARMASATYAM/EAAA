@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Exams Adda</string>
+    <string name="title_activity_home">User Home Page</string>
+    <string name="title_activity_registered_exams_list">Available Exams</string>
+</resources>
